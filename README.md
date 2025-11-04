@@ -23,4 +23,5 @@ Ayrıca tüm görevler *localStorage*’a kaydedilir; böylece sayfa yenilense b
 - *JavaScript (Vanilla JS)*
 - *localStorage (tarayıcı veritabanı)*
 
-![To-Do List Ekran Görüntüsü](./screenshot.png)
+<img width="1259" height="614" alt="todoList" src="https://github.com/user-attachments/assets/97f0f242-2ec5-4bfe-811c-484d00c5c760" />
+
